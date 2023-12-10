@@ -1,0 +1,32 @@
+body { 
+    font-family: Arial, sans-serif; 
+}
+
+.header { 
+    font-size: 24px; 
+    font-weight: bold; 
+}
+
+.contact { 
+    font-size: 16px; 
+    margin-bottom: 20px; 
+}
+
+.section-title { 
+    font-size: 18px; 
+    font-weight: bold; 
+    margin-top: 20px; 
+}
+
+.work-experience, .skills { 
+    margin-left: 20px; 
+}
+
+.work-experience ul, .skills ul { 
+    list-style-type: none; 
+    padding: 0; 
+}
+
+.work-experience li, .skills li { 
+    margin-bottom: 10px; 
+}
