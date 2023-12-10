@@ -30,3 +30,8 @@ body {
 .work-experience li, .skills li { 
     margin-bottom: 10px; 
 }
+
+.work-experience b, .skills b {
+    display: block;
+    margin-top: 20px; /* Adjust this value as needed for desired spacing */
+}
