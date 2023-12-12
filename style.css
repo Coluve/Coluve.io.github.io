@@ -12,6 +12,10 @@ body {
     margin-bottom: 20px; 
 }
 
+.professional-summary {
+    margin-left: 20px;
+}
+
 .section-title { 
     font-size: 18px; 
     font-weight: bold; 
@@ -29,6 +33,7 @@ body {
 
 .work-experience li, .skills li { 
     margin-bottom: 10px; 
+    list-style-type: none; 
 }
 
 .work-experience b, .skills b {
